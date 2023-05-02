@@ -1,0 +1,94 @@
+html {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+
+.breadcrumbs {
+  width: 95%;
+}
+
+.breadcrumb-item {
+  display: inline-block;
+  font-size: 0.7rem;
+  color: #789269;
+  font-style: italic;
+}
+
+h1 {
+  width: 90%;
+  color:#47573d;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+#search-bar {
+  width: 85%;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 25px 0;
+  padding: 15px 10px;
+  border: solid 3px #3a813ba7;
+  border-radius: 15px;
+}
+
+#questions-container {
+  width: 90%;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.question-answer-container {
+  width: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  align-items: center;
+  border: solid 2px #47573d8c;
+  border-radius: 15px;
+  margin: 10px 0;
+}
+
+
+
+.question {
+  width: 90%;
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin: 15px;
+
+}
+
+.answer {
+  font-size: 1rem;
+  margin-bottom: 16px;
+  width: 90%;
+
+}
+
+@media screen and (min-width: 768px) {
+
+}
+
+/* Desktop styles */
+@media screen and (min-width: 1024px) {
+  
+}

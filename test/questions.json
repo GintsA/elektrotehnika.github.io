@@ -1,0 +1,332 @@
+[
+  {
+    "question_id": 1,
+    "question": "Kā sauc paralēli slēgtu rezistoru, ar kuru var palielināt strāvas mērapjomu?",
+    "answers": [
+      "Strāvmainis",
+      "Šunts",
+      "Papildus pretestība",
+      "Sekundāra pretestība"
+    ],
+    "correct_answer": "Šunts"
+  },
+  {
+    "question_id": 2,
+    "question": "Kā sauc instrumentu, ar kuru var mērīt gan strāvu, gan spriegumu, gan pretestību?",
+    "answers": [
+      "Vatmetrs",
+      "Multimetrs",
+      "Voltampērmetrs",
+      "Milivoltmetrs"
+    ],
+    "correct_answer": "Multimetrs"
+  },
+  {
+    "question_id": 3,
+    "question": "Kā pieslēdz ampērmetru strāvas stipruma mērīšanai?",
+    "answers": [
+      "Virknē",
+      "Paralēli",
+      "Jaukti",
+      "Trijstūra slēgumā"
+    ],
+    "correct_answer": "Virknē"
+  },
+  {
+    "question_id": 4,
+    "question": "Kādās mērvienībās mēra spriegumu?",
+    "answers": [
+      "Ampēros",
+      "Voltos",
+      "Vatos",
+      "Omos"
+    ],
+    "correct_answer": "Voltos"
+  },
+  {
+    "question_id": 5,
+    "question": "Kur jāatrodas darbiniekam, strādājot gaisvadu līnijas stūra balstos?",
+    "answers": [
+      " Darbiniekam jāatrodas saules pusē, lai nebūtu apgrūtināta redzamība",
+      "Darbiniekam jāatrodas leņķa iekšpusē",
+      "Darbiniekam jāatrodas ar skatu pret sauli, lai labāk varētu veikt darbu",
+      "Darbiniekam jāatrodas leņķa ārpusē"
+    ],
+    "correct_answer": "Darbiniekam jāatrodas leņķa ārpusē"
+  },
+  {
+    "question_id": 6,
+    "question": "Kāda ir elektrobīstamības zonas ārējā robeža 0,4 kV kailvadu līnijai?",
+    "answers": [
+      "0,5 m",
+      "0,6 m",
+      "1,5 m",
+      "1 m"
+    ],
+    "correct_answer": "1 m"
+  },
+  {
+    "question_id": 7,
+    "question": "Kurā atbildē pareizi atšifrētas abreviatūras: a) PEN b) PE c) N ",
+    "answers": [
+      "a) Vads, kas veic gan aizsargvada, gan neitrālvada funkciju b) aizsargvads c) neitrālvads",
+      "a) Zemējumvads b) aizsargvads c) neitrālvads",
+      "a) Nullvads b) zemētājvads c) aizsargvads",
+      "a) Zemējumvads b) aizsargvads c) nullvads"
+    ],
+    "correct_answer": "a) Vads, kas veic gan aizsargvada, gan neitrālvada funkciju b) aizsargvads c) neitrālvads"
+  },
+  {
+    "question_id": 8,
+    "question": "Pieskarspriegums ir...",
+    "answers": [
+      "Spriegums starp cilvēku un citu objektu pieskāriena laikā",
+      "Spriegums starp diviem elektriskās ķēdes punktiem, kuriem vienlaicīgi pieskaras cilvēks",
+      "Spriegums uz zemējuma cilvēka pieskāriena laikā",
+      "Spriegums uz neizolēta elektroapgādes vada cilvēka pieskāriena laikā"
+    ],
+    "correct_answer": "Spriegums starp diviem elektriskās ķēdes punktiem, kuriem vienlaicīgi pieskaras cilvēks"
+  },
+  {
+    "question_id": 9,
+    "question": "Kuram no minētajiem metāliem oksīds ir lielisks dielektriķis?",
+    "answers": [
+      "Alumīnijam",
+      "Dzelzij",
+      "Niķelim",
+      "Varam"
+    ],
+    "correct_answer": "Alumīnijam"
+  },
+  {
+    "question_id": 10,
+    "question": "Kāpēc gaisvadu līnijās līdz ar alumīnija vadiem izmanto tēraudalumīnija vadus?",
+    "answers": [
+      "Alumīnija vadiem ir pārāk zema īpatnējā pretestība",
+      "Alumīnijs nav pietiekami izturīgs",
+      "Alumīnijs gaisā oksidējas",
+      "Alumīnijs mitrumā šķīst"
+    ],
+    "correct_answer": "Alumīnijs nav pietiekami izturīgs"
+  },
+  {
+    "question_id": 11,
+    "question": "Elektrotehniskais porcelāns ir...",
+    "answers": [
+      "Polimērs",
+      "Keramika",
+      "Stikls",
+      "Oglekļa šķiedra"
+    ],
+    "correct_answer": "Keramika"
+  },
+  {
+    "question_id": 12,
+    "question": "Kādam nolūkam tiek izmantoti dielektriskie materiāli?",
+    "answers": [
+      "Vadītāju materiāliem",
+      "Izolācijas materiāliem",
+      "Magnētiskiem materiāliem",
+      "Pusvadītāju materiāliem"
+    ],
+    "correct_answer": "Izolācijas materiāliem"
+  },
+  {
+    "question_id": 13,
+    "question": "No kāda materiāla veido kopnes?",
+    "answers": [
+      "Polivinilhlorīda",
+      "Volframa",
+      "Alumīnija",
+      "Tērauda"
+    ],
+    "correct_answer": "Alumīnija"
+  },
+  {
+    "question_id": 14,
+    "question": "Kad tīklā samazinās frekvence?",
+    "answers": [
+      "Ja pievadītā jauda ir mazāka par patērēto",
+      "Ja patērētā jauda ir mazāka par pievadīto",
+      "Ja abas jaudas ir atšķirīgas, neatkarīgi no tā, kura ir lielāka",
+      "Ja abas jaudas ir atšķirīgas, neatkarīgi no tā, kura ir mazāka"
+    ],
+    "correct_answer": "Ja pievadītā jauda ir mazāka par patērēto"
+  },
+  {
+    "question_id": 15,
+    "question": "Elektroapgādes tīklos rezerves barošanu izmanto, lai...",
+    "answers": [
+      "Nodrošinātu nepārtrauktu enerģijas padevi patērētājam",
+      "Nodrošinātu enerģijas padevi kontroles un vadības aparātiem",
+      "Nodrošinātu avārijas apgaismojumu un apsardzes signalizāciju",
+      "Nodrošinātu enerģijas padevi remontdarbu veikšanai"
+    ],
+    "correct_answer": "Nodrošinātu enerģijas padevi kontroles un vadības aparātiem"
+  },
+  {
+    "question_id": 16,
+    "question": "Kāds spriegums pienāk novadu apakšstacijās?",
+    "answers": [
+      "330 kV",
+      "110 kV",
+      "20 kV",
+      "10 kV"
+    ],
+    "correct_answer": "110 kV"
+  },
+  {
+    "question_id": 17,
+    "question": "Raksturot nulles secības strāvu.",
+    "answers": [
+      "Sinfāza, vienādas amplitūdas strāva, kas plūst visos fāzes vados",
+      "Augstāko harmoniku strāva, kas plūst fāzes vados",
+      "Vienādas amplitūdas strāvas, kuras nobīdītas savstarpēji par 120˚ un plūst pie aktīvas slodzes",
+      "Vidējā strāva visās trīs fāzēs vienas fāzes zemslēguma gadījumā"
+    ],
+    "correct_answer": "Sinfāza, vienādas amplitūdas strāva, kas plūst visos fāzes vados"
+  },
+  {
+    "question_id": 18,
+    "question": "Ar ko atdalītājs atšķiras no jaudas slēdža?",
+    "answers": [
+      "Atdalītājs spēj komutēt lielāku jaudu",
+      "Atdalītājs nav lokdzēses mezgls",
+      "Atdalītājs nostrādā ātrāk",
+      "Atdalītājs nevar ķēdi savienot"
+    ],
+    "correct_answer": "Atdalītājs nav lokdzēses mezgls"
+  },
+  {
+    "question_id": 19,
+    "question": "Cik liels ir sprieguma zudums transformatorā, kurš strādā ar nominālo slodzi?",
+    "answers": [
+      "Uₙ",
+      "ΔU",
+      "Uₙ/k",
+      "Uₖ"
+    ],
+    "correct_answer": "Uₖ"
+  },
+  {
+    "question_id": 20,
+    "question": "Kādās krāsās krāso kopnes?",
+    "answers": [
+      "A - dzeltenā, B - zaļā, C - sarkanā",
+      "A - zilā, B - dzeltenā, C - sarkanā",
+      "A - sarkanā, B - zilā, C - dzeltenā",
+      "A - zaļā, B - sarkanā, C - dzeltenā"
+    ],
+    "correct_answer": "A - dzeltenā, B - zaļā, C - sarkanā"
+  },
+  {
+    "question_id": 21,
+    "question": "Izvēloties gaisa elektropārvades līnijas materiālu un šķērsgriezumu, jāņem vērā...",
+    "answers": [
+      "Gada vidējā temperatūra",
+      "Vēja stiprums",
+      "Saules radiācija",
+      "Lietaino dienu skaits gadā"
+    ],
+    "correct_answer": "Vēja stiprums"
+  },
+  {
+    "question_id": 22,
+    "question": "Cik vadu ir vienfāzes gaisvadu līnijā?",
+    "answers": [
+      "Viens",
+      "Divi",
+      "Trīs",
+      "Četri"
+    ],
+    "correct_answer": "Divi"
+  },
+  {
+    "question_id": 23,
+    "question": "20 kV elektroietaisēs pieļaujamais attālums līdz strāvu vadošām daļām ir 0,6 metri. Kas notiks, ja cilvēks pienāks tuvāk?",
+    "answers": [
+      "Var izveidoties elektriskais loks starp strāvu vadošo daļu un cilvēku",
+      "Cilvēks var saņemt strāvas triecienu",
+      "Elektriskā lauka iedarbības rezultātā cilvēka organismā var tikt iznīcinātas dzīvās šūnas",
+      "Cilvēkā var parādīties inducētais spriegums"
+    ],
+    "correct_answer": "Var izveidoties elektriskais loks starp strāvu vadošo daļu un cilvēku"
+  },
+  {
+    "question_id": 24,
+    "question": "Kādā veidā var aizsargāt mājas, iekārtas un mājdzīvniekus no zibens?",
+    "answers": [
+      "Negaisa laikā izslēdzot elektrību",
+      "Negaisa laikā aizverot logus un durvis",
+      "Ierīkojot zibensnovedējus",
+      "Ierīkojot speciālas ierīces zibens uztveršana"
+    ],
+    "correct_answer": "Ierīkojot zibensnovedējus"
+  },
+  {
+    "question_id": 25,
+    "question": "Kādas ir gaisvada līnijas ar spriegumu līdz 1000 V minimāli pieļaujamais augstums apdzīvotās vietās?",
+    "answers": [
+      "5 m",
+      "10 m",
+      "6 m",
+      "3 m"
+    ],
+    "correct_answer": "6 m"
+  },
+  {
+    "question_id": 26,
+    "question": "Ko sauc par zemējuma ietaisi?",
+    "answers": [
+      "Zemētāja vienotību ar elektroaparātiem",
+      "Zemēšanas pievadu",
+      "Zemētāja un zemēšanas pievada vienotību",
+      "Vadītāja un elektroaparātu vienotību"
+    ],
+    "correct_answer": "Zemētāja un zemēšanas pievada vienotību"
+  },
+  {
+    "question_id": 27,
+    "question": "Izlādņi elektriskajā tīklā aizsargā no...",
+    "answers": [
+      "Īsslēguma strāvas",
+      "Pārsprieguma tīklā",
+      "Ilgstoša pārslodzes",
+      "Statiskā lādiņa"
+    ],
+    "correct_answer": "Pārsprieguma tīklā"
+  },
+  {
+    "question_id": 28,
+    "question": "Kādēļ lieto starpbalstus?",
+    "answers": [
+      "Gaisa līniju mehāniskās stiprības palielināšanai",
+      "Gaisvadu līnijas ierīkošanai pilsētās",
+      "Lai izpildītu vadu krustošanu",
+      "Gaisa līniju virziena izmaiņai"
+    ],
+    "correct_answer": "Gaisa līniju mehāniskās stiprības palielināšanai"
+  },
+  {
+    "question_id": 29,
+    "question": "Kādu funkciju pilda transformatoru apakšstacija?",
+    "answers": [
+      "Izstrādā elektroenerģiju",
+      "Pārveido un sadala elektroenerģiju",
+      "Uzkrāj elektroenerģiju",
+      "Pārvada elektroenerģiju attālumā"
+    ],
+    "correct_answer": "Pārveido un sadala elektroenerģiju"
+  },
+  {
+    "question_id": 30,
+    "question": "Kāds ir 0,4 kV gaisvadu līnijas aizsargjoslas platums pilsētās un ciemos?",
+    "answers": [
+      "2 m no līnijas ass abpus līnijai",
+      "4 m no līnijas ass abpus līnijai",
+      "2,5 m no līnijas ass abpus līnijai",
+      "8 m no līnijas ass abpus līnijai"
+    ],
+    "correct_answer": "2,5 m no līnijas ass abpus līnijai"
+  }
+]
